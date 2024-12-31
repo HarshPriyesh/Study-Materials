@@ -20,6 +20,8 @@ Implement a function to return the Fibonacci sequence up to n.
 Write a script to find the second largest number in a list.
 Reverse a string without using slicing.
 Merge two sorted lists into one sorted list.
+
+https://automatetheboringstuff.com/
 Write a program to count the occurrences of each word in a string.
 Given a list of integers, return the indices of two numbers that add up to a specific target.
 Create a function to flatten a nested list.
